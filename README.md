@@ -24,10 +24,9 @@ Here's how to get the video generator up and running:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone <your_repository_url>
-    cd <your_repository_directory>
+    git https://github.com/DevlopRishi/Explanatory_Video_Generator_AI
+    cd Explanatory_Video_Generator_AI
     ```
-    (Replace `<your_repository_url>` and `<your_repository_directory>` with the actual URL and directory.)
 
 2.  **Configure the API Key:**
 
@@ -35,7 +34,7 @@ Here's how to get the video generator up and running:
     * Open `config.py` and add your Gemini API key:
 
         ```python
-        api_key='<google-gemini-api-key>'"  # Replace with your actual Gemini API key
+        api_key='xyz'"  # Replace with an actual Gemini API key
         ```
 
 3.  **Install Dependencies:**
